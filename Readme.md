@@ -6,9 +6,9 @@
 <h2>Tech stack </h2><br>
 <ul>
  <li>NodeJS </li>
- <li>ExpressJS<li> 
- <li>MongoDB <li>
- <li>Mongoose <li>
+ <li>ExpressJS</li> 
+ <li>MongoDB </li>
+ <li>Mongoose </li>
 </ul>
 
 <h2>Features ✨✨</h2> <br>
