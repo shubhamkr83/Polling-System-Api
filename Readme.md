@@ -2,13 +2,14 @@
 
 <h3>Video Explaination:</h3>
 <h3>Hosting Link:</h3>
+
 <h2>Tech stack </h2><br>
 <ul>
- <li>NodeJS </li>>
-   <li><li>ExpressJS<li> 
+ <li>NodeJS </li>
+ <li>ExpressJS<li> 
  <li>MongoDB <li>
-  <li>Mongoose <li>
- </ul>
+ <li>Mongoose <li>
+</ul>
 
 <h2>Features ✨✨</h2> <br>
 <ul>
