@@ -13,12 +13,12 @@
 
 <h2>Features ✨✨</h2> <br>
 <ul>
-    <li>Create a question</li> <br>
-    <li>Add options to a question</li> <br>
-    <li>Add a vote to an option of question</li> <br>
-    <li>Delete a question</li> <br>
-    <li>Delete an option</li> <br>
-    <li>View a question</li> <br>
+    <li>Create a question</li>
+    <li>Add options to a question</li> 
+    <li>Add a vote to an option of question</li> 
+    <li>Delete a question</li> 
+    <li>Delete an option</li> 
+    <li>View a question</li> 
 </ul>
 
 <h2>Url Paths for performing actions 🔗🔗</h2> <br>
