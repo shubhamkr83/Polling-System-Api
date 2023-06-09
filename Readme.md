@@ -1,6 +1,5 @@
 <h1>A Polling Api System</h1>
 
-<h3>Video Explaination: https://youtu.be/wL8J3yf-Rjg</h3> 
 <h3>Hosting Link: https://polling-system-api-9iv0.onrender.com </h3>
 
 <h2>Tech stack </h2><br>
